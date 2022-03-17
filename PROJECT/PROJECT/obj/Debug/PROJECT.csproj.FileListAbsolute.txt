@@ -1,0 +1,15 @@
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.AssemblyReference.cache
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.Coach_Form.resources
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.Form1.resources
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.cache
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.Field_Form.resources
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.GK_Form.resources
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.Player_Form.resources
+C:\Users\ferfe\Desktop\PROJECT\PROJECT\obj\Debug\PROJECT.Added_Members_Form.resources
